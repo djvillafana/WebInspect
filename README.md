@@ -1,4 +1,4 @@
-# WebBreaker Configuration Repository for WebInspect Scanning
+# WebBreaker Configurations for WebInspect
 WebBreaker administers WebInspect scanning from a mutually exclussive remote GIT repo.  The three directories `policies`, `settings`, and `webmacros`, contain desired configurations that are optional for WebInspect scanning.
 
 ### Policies
