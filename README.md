@@ -2,7 +2,7 @@
 WebBreaker administers WebInspect scanning from a mutually exclussive remote GIT repo.  The three directories `policies`, `settings`, and `webmacros`, contain desired configurations that are optional for WebInspect scanning.
 
 ### Policies
-> Grouping of proprietary WebInspect vulnerabiltiy tests to perform.  Tests represented in an `xml` scheme with a `.policy` file extension.
+> Grouping of proprietary WebInspect vulnerabiltiy tests to perform.  The policy file(s) is an format `xml` with a `.policy` file extension.
 
 ### Settings
 > Scan configurations that are grouped into an `xml` file, bootstrapping a WebInspect scan.  Setting files determine which `webmacro`, `policy`, `hosts`, and other relevant scan configurations will be used in the scan.
